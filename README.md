@@ -8,6 +8,7 @@ To run locally with your own AI,
 
 3. streamlit run BandAI.py
 
+
 To use this application, you will need to provide your own OpenAI API key. This key allows the application to make requests to OpenAI's models on your behalf.
 
 Configuration Steps
